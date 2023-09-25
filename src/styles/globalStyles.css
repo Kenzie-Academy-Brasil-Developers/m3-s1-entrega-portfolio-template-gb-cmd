@@ -1,0 +1,20 @@
+:root {
+    --color-primary: #6880FF;
+    --color-primary-Hover: #7C91FF;
+
+    --color-grey-1: #000000;
+    --color-grey-2: #0C0C0C;
+    --color-grey-3: #FFFFFF;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+
+    background-color: var(--color-grey-2);
+    font-family: 'Inter', sans-serif;;
+}
+
+footer {
+    width: 100%;
+}

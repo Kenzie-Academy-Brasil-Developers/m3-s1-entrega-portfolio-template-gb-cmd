@@ -1,0 +1,41 @@
+.title1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: var(--color-grey-3);
+}
+
+.title2BannerInfo {
+    margin-bottom: 20px;
+}
+
+.title2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: var(--color-grey-3);
+}
+
+.title3 {
+    font-size: 22px;
+    font-weight: bold;
+    color: var(--color-grey-3);
+}
+
+.text1 {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: var(--color-primary);
+}
+
+.text1:hover {
+    color: var(--color-primary-Hover);
+    text-decoration: underline;
+}
+
+.text2 {
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: var(--color-grey-3);
+    opacity: 94%;
+}
